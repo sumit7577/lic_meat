@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Lic_Meat",
+    "slug": "Lic_Meat",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Lic_Meat"
+}
